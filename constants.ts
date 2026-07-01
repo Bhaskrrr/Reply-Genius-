@@ -19,7 +19,6 @@ ABSOLUTE RULES:
 5. STRICTLY adhere to the requested language.
 `;
 
-export { LanguageOption };
 
 export const LANGUAGES: LanguageOption[] = [
   { id: 'English', label: 'English', nativeLabel: 'English', example: 'How are you?' },
